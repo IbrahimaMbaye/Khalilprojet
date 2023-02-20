@@ -1,0 +1,96 @@
+
+
+.parent{
+    margin: 100px;
+    width: 1000px;
+    height: 500px;
+    background-color: rgb(3, 66, 37);
+}
+.element{
+  width: 500px;
+  height: 250px;
+  background-color: rgb(241, 219, 20);  
+  
+}
+.posAbc{
+    margin: 100px;
+    width: 850px;
+    height: 350px;
+    padding-left: 100px;
+    position: absolute;
+    
+}
+.mbaye{
+    margin: 80px;
+    position: relative;
+    width: 400px;
+    height: 300px;
+    background-color: rgb(3, 66, 37);  
+    left: 50px;
+    top: -475px;
+    color: aliceblue;
+    padding-left: 50px;
+}
+.icon{
+    position: relative;
+    right: 1rem;
+    padding-right: 20px;
+}
+.icon ul li{
+    position: relative;
+    display: inline-block;
+    font-size: 30px;
+    margin: 0 5px;
+}
+.iba{
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 10px;
+margin-right: 3px;
+background-color: #fff;
+border-radius:5px ;
+border: 0;
+background: #fff;
+
+}
+.form{
+    max-width: 550px;
+    padding: 20px;
+    
+    margin-right: 2%;
+    background: transparent; 
+    border: none;
+}
+.mmm{
+    margin-right: 60%;
+
+    
+    
+}
+
+input{
+    border: none;
+    border-bottom: #050505 solid 1px;
+    
+}
+
+    
+
+
+
+
+h4{
+    margin-right: 37%;
+   
+}
+
+
+textarea{
+    border: none;
+    border-bottom: #050505 solid 1px;
+}
+
+p{
+    margin-left: 28%;
+    margin-top: 0;
+}
